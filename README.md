@@ -1,3 +1,4 @@
+- ![Visitor Count](https://profile-counter.glitch.me/{codewithfaizan}/count.svg)
 - 👋 Hi, I’m @Nmohd
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning MERN with Code for India
