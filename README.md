@@ -15,7 +15,7 @@
 <a href="https://instagram.com/0000000_060516_065152_00516500/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohd_najeeb" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmohd&show_icons=true&locale=en&layout=compact" alt="nmohd" /></p><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmohd&show_icons=true&locale=en&layout=compact" alt="nmohd" /></p><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nmohd&show_icons=true&locale=en" alt="nmohd" /></p><br>
 
