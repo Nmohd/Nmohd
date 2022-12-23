@@ -20,6 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nmohd&show_icons=true&locale=en" alt="nmohd" /></p><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nmohd&" alt="nmohd" /></p><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nmohd&" alt="nmohd" /></p><br>
 
 
 <!---
