@@ -3,7 +3,7 @@
 
 </br>
 </br>
-- 🔭 I graduated as a fellow at <a href="https://codeforindia.com/">Code for India</a> - Class of A 2022 </br>
+- 🔭 I graduated as a fellow at <a href="https://codeforindia.com/">Code for India</a> - A 2022 batch </br>
 - 🤩 I'm super passionate about Tech and I aspire to learn new things everyday! </br>
 - 📫 How to reach me: <b>@najeebu50@gmail.com</b> </br>
 - 🌱 Checkout my portfolio at <b>https://najeeb-portfolio-taupe.vercel.app/</b> </br>
